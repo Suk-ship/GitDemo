@@ -17,6 +17,7 @@ public class RESTApi {
 	public void AppTest2()
 	{
     System.out.println("RestApiTest2");
+    System.out.println("Hello Git");
     }
 
 }
